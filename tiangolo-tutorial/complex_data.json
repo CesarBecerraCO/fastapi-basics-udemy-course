@@ -1,0 +1,25 @@
+{
+"cx1": {
+    "__complex__":true,
+    "real":42,
+    "imag":36
+},
+"cx2":{
+    "__complex__":true,
+    "real":64,
+    "imag":11
+},
+"cx3": [
+    {
+        "__complex__":true,
+        "real":3,
+        "imag":5
+    },
+    {
+        "__complex__":true,
+        "real":10,
+        "imag":2
+    }
+],
+"cesar": "cool behavior!"
+}
